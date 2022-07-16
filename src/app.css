@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    background-color: #262626;
+    color: whitesmoke;
+}
+
+nav {
+    background-color: rgba(0,0,0,0.2);
+}
+
+.btn {
+    background-color: #191919;
+    color: whitesmoke;
+}
