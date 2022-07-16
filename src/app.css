@@ -7,8 +7,9 @@ body {
     color: whitesmoke;
 }
 
-nav {
-    background-color: rgba(0,0,0,0.2);
+main {
+    background-color: #262626;
+    color: whitesmoke;
 }
 
 button {
@@ -19,4 +20,10 @@ button {
 
 button:hover {
     background-color: black;
+    color: whitesmoke;
+}
+
+.nav-brand:hover {
+    background-color: black;
+    color: whitesmoke;
 }
