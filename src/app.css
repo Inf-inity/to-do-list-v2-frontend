@@ -7,11 +7,23 @@ body {
     color: whitesmoke;
 }
 
-nav {
-    background-color: rgba(0,0,0,0.2);
+main {
+    background-color: #262626;
+    color: whitesmoke;
 }
 
-.btn {
+button {
     background-color: #191919;
+    color: whitesmoke;
+    transition-duration: 0.3s;
+}
+
+button:hover {
+    background-color: black;
+    color: whitesmoke;
+}
+
+.nav-brand:hover {
+    background-color: black;
     color: whitesmoke;
 }
