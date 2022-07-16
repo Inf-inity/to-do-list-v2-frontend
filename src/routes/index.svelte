@@ -57,5 +57,7 @@
       </div>
     </div>
     {/each}
-    <button class="btn btn-dark"><a href="#" style="color:#b9b9b9; text-decoration:none;"> <h2> + </h2></a></button>
+    <div class="justify-content-center">
+      <button class="btn btn-dark"><a href="#" style="color:#b9b9b9; text-decoration:none;"> <h2> + </h2></a></button>
+    </div>
   </div>
