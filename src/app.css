@@ -11,7 +11,12 @@ nav {
     background-color: rgba(0,0,0,0.2);
 }
 
-.btn {
+button {
     background-color: #191919;
     color: whitesmoke;
+    transition-duration: 0.3s;
+}
+
+button:hover {
+    background-color: black;
 }
